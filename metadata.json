@@ -1,0 +1,7 @@
+{
+  "name": "Asado Match",
+  "description": "The ultimate social app for groups in Punta del Diablo. Connect, match, and organize the perfect Asado with other friend groups using AI-powered compatibility and planning tools.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
